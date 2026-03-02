@@ -49,8 +49,9 @@ def index():
     
     # Inicia o ping numa thread separada para não travar o carregamento da página
     # O user vê a página instantaneamente enquanto o servidor acorda os links no fundo
-    thread = threading.Thread(target=ping_services, args=(services,))
-    thread.start()
+    
+    #thread = threading.Thread(target=ping_services, args=(services,))
+    #thread.start()
     
     return render_template('index.html', services=services)
 
