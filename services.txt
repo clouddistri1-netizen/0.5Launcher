@@ -1,3 +1,3 @@
 https://qr-code-trusted.onrender.com/ | QR Code Generator (v1.0) | qr.png | PNG, QR CODE, GENERATOR, APP
 https://image-quantize-free.onrender.com/ | Image Quantize (v1.0) | quantize.png | PNG, Quantize, Image, APP
-https://mathio-ojgw.onrender.com | MathIO (v0.78) | MathIO.png | Game, Math, Music, APP
+https://mathio-ojgw.onrender.com | MathIO (v0.78) | mathio.png | Game, Math, Music, APP
